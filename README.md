@@ -87,4 +87,4 @@ This project is licensed under the MIT License – free to use and modify.
 
 👤 Siddhartha Singh
 📧 10mastergaming10@gmail.com
-🔗 [https://www.linkedin.com/in/parth-pandey-3442a9256/](https://www.linkedin.com/in/siddhartha1010/)
+🔗 https://www.linkedin.com/in/siddhartha1010/
