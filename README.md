@@ -67,7 +67,7 @@ Pretrained Model: Stored as regressor.pkl.
 
 🔗 Live Deployment
 
-The application is deployed on Render. https://medical-insurance-cost-predictor-mhp.onrender.com
+The application is deployed on Render. https://medical-insurance-cost-predictor-ss.onrender.com
 
 ⚠️ Important Note:
 
