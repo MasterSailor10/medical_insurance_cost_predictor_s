@@ -1,6 +1,6 @@
 Medical Insurance Cost Predictor
 
-🔗 Repository: MasterSailor10/medical_insurance_cost_predictor_p
+🔗 Repository: MasterSailor10/medical_insurance_cost_predictor_s
 
 🚀 Overview
 
@@ -20,7 +20,7 @@ The Medical Insurance Cost Predictor is a machine learning-powered web applicati
 
 📂 Project Structure
 
-medical_insurance_cost_predictor_p/ │── templates/ # HTML templates for the web app
+medical_insurance_cost_predictor_s/ │── templates/ # HTML templates for the web app
 │── static/ # Static files (CSS, images, JS)
 │── app.py # Flask web application
 │── insurance.csv # Preprocessed dataset
@@ -33,7 +33,7 @@ medical_insurance_cost_predictor_p/ │── templates/ # HTML templates for th
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/medical_insurance_cost_predictor_p.git cd medical_insurance_cost_predictor_p
+git clone https://github.com/MasterSailor10/medical_insurance_cost_predictor_s.git cd medical_insurance_cost_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
